@@ -1,0 +1,1 @@
+{"name":"Ramesh","age":"21","interests":["football","quiz","cooking"],"grades":[{"course":"CS100","grade":"A"},{"course":"HS120","grade":"B"},{"course":"CS200","grade":"A"}],"hosteladdr":{"hostel":"BlockG","room":"345"}}
