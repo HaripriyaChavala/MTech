@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<stdlib.h>
+main()
+{
+int n,i,j,temp,c=0,a[100];
+scanf("%d",&n);
+for(i=0;i<n;i++)
+scanf("%d",&a[i]);
+for(i=0;i<n-1;i++)
+{
+for(j=0;j<n-i-1;j++)
+{
+if(a[j]==a[j+1])
+{
+printf("false");
+printf("%d",c);
+exit(0);
+}
+else if(a[j]>a[j+1])
+{
+temp=a[j];
+a[j]=a[j+1];
+a[j+1]=temp;
+}
+c++;
+}
+}
+printf("true");
+printf("%d",c);
+}
