@@ -1,0 +1,33 @@
+
+Code                        -     All operations on Binary search tree
+
+Criteria used for Testing   -     Restricted Active Clause Coverage Criteria (Logic Based Testing)
+
+Tool used                   -     JUNIT
+
+Total Number of Test cases  -     42 
+
+Total number of predicates  -     10(Having more than 3 clauses)
+
+Documentation.pdf           -     It contains documentation of source code, Predicates and its corresponding testcases along with screenshots.
+
+Reference.xls               -     Mapping of predicates with corresponding details in table form.
+
+
+Testing the code:
+	
+	Directly run the class file TreeTest.class using one testcase at a time. Testcases are given Reference.xlsx(Combined Test case for predicate column) file and also in Documentation.pdf file.
+
+
+
+Individual Contribution :
+
+MT2016040 Chavala Sriharipriya  -  Sourcecode, Documentation, Junit Test code,Testcases(21)
+
+MT2016092 Nelluri Naveen        -  Sourcecode, Documentation, Testcases(21)
+
+
+
+
+
+
